@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="37f113a2-233d-4410-a3b5-62a8378ac331" Publisher="CN=David" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>ProjetoFinal.Windows</DisplayName>
+    <PublisherDisplayName>David</PublisherDisplayName>
+    <Logo>Logo\SteamIcon-50x50.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="ProjetoFinal.Windows.App">
+      <m2:VisualElements DisplayName="ProjetoFinal.Windows" Square150x150Logo="Logo\SteamIcon.png" Square30x30Logo="Logo\SteamIcon-30x30.png" Description="ProjetoFinal.Windows" ForegroundText="dark" BackgroundColor="#464646" ToastCapable="false">
+        <m2:DefaultTile ShortName="SteamApp" DefaultSize="square150x150Logo">
+          <m2:ShowNameOnTiles>
+            <m2:ShowOn Tile="square150x150Logo" />
+          </m2:ShowNameOnTiles>
+        </m2:DefaultTile>
+        <m2:SplashScreen Image="Logo\SteamLogo.png" BackgroundColor="#000000" />
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="microphone" />
+    <DeviceCapability Name="webcam" />
+  </Capabilities>
+</Package>

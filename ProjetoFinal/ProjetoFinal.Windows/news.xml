@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" ?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:steam="http://www.steampowered.com" xmlns="http://purl.org/rss/1.0/">
+	<channel rdf:about="http://www.steampowered.com">
+		<title>Steam RSS News Feed</title> 
+		<link>http://www.steampowered.com/</link> 
+		<description>All Steam news, all the time!</description> 
+		<language>en</language> 
+				<pubDate>Tue, 02 Jun 2015 10:36:00 -0700</pubDate>
+		<generator>http://www.steampowered.com/</generator> 
+		<items>
+			<rdf:Seq>
+							<rdf:li rdf:resource="http://store.steampowered.com/news/17088/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/17085/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/17081/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/17072/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/17084/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/17074/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/17056/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/17063/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/16977/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/16974/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/16972/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/17046/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/17029/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/16970/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/17036/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/17018/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/17015/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/17009/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/17006/" />
+							<rdf:li rdf:resource="http://store.steampowered.com/news/16969/" />
+						</rdf:Seq>
+		</items>
+	</channel>
+					<item rdf:about="http://store.steampowered.com/news/17088/">
+			<title><![CDATA[Steam Client Update Released]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/17088/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/17088/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Tue, 02 Jun 2015 10:36:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-06-02T10:36:00-0700</dc:date>
+						<content:encoded><![CDATA[An update has been released for the Steam Client and will be automatically downloaded.<br><br><b>General</b><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li> Added integration with Steam Refunds and Support Site<br><li> Reduced the delay when reconnecting to Steam after waking from sleep or changing networks <br><li> Reduced the amount of disk space necessary to decrypt a preloaded game <br><li> Fixed the "Quit" option in the offline-mode startup dialog box not quitting Steam immediately <br><li> Fixed odd menu behavior when clicking between Steam windows while a menu is visible<br><li> Fixed a bug where AltGr+Key on non-US keyboards would trigger Ctrl+Key shortcuts <br><li> Fixed bugs when using Alt+Left/Right (Mac: Cmd+Left/Right) to navigate main window history <br><li> Fixed keystrokes in web views being diverted to the Find popup even after it is dismissed <br><li> Fixed choppy framerate when watching broadcasts or videos in a background window <br><li> Fixed situations where the Status menu checkmark could disappear or otherwise not match your actual online status<br><li> Reduced length of the suggested folder name for backups of multiple games</ul><br><b>Big Picture</b><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li> Fixed a bug where the web browser would not scroll to the top when "Home" is pressed<br><li> Improved support for collecting information during pre-purchase checkout<br><li> Fixed a rare bug that could block users from completing Big Picture login after a password reset<br><li> Fixed a bug that could cause disabled UI elements to incorrectly appear active</ul><br><b>In-Home Streaming</b><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li> Fixed a bug that blocked reconnection to the host for a short time after ending a stream <br><li> Fixed a bug where attaching a Xbox 360 Controller mid-game could generate unexpected controller input</ul><br><b>Windows</b><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li> Fixed a bug where Steam windows could move completely off-screen if maximized on a secondary monitor which contains the taskbar and is to the left of the primary monitor</ul><br><b>Mac OS X </b><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li> Fixed a bug which rendered black pages instead of web content for some users <br><li> Added Command-[ and Command-] hotkeys for forward and back navigation<br><li> Reduced energy impact of leaving Steam running in the background</ul><br><b>Linux/SteamOS  </b><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li> Improved font appearance of cross-language CJK characters when running with Japanese language settings <br><li> Fixed an issue under network settings that would show invalid/missing networks as configurable</ul>]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/17085/">
+			<title><![CDATA[Dirty Bomb Open Beta Available Now]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/17085/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/17085/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Tue, 02 Jun 2015 10:30:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-06-02T10:30:00-0700</dc:date>
+						<content:encoded><![CDATA[<a href="http://store.steampowered.com/app/333930/">Dirty Bomb</a> is now in Open Beta on Steam! London is a post-apocalyptic wasteland with no law and no order, it's time to call in the mercenaries. Suit up and go toe-to-toe with other soldiers of fortune as you battle it out for riches and bragging rights. Work together or die alone in the most challenging team-based FPS. Try it today for <a href="http://store.steampowered.com/app/333930/">free</a>. <br><br><a href="http://store.steampowered.com/app/333930/"><img src="http://cdn.akamai.steamstatic.com/steam/apps/333930/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/17081/">
+			<title><![CDATA[Free Midweek Madness - Skullgirls, 80% Off and ]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/17081/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/17081/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Tue, 02 Jun 2015 10:00:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-06-02T10:00:00-0700</dc:date>
+						<content:encoded><![CDATA[Save 80% on <a href='http://store.steampowered.com/app/245170'>Skullgirls</a> during this week's Midweek Madness, and PLAY FOR FREE, now until Sunday June 7th at 1pm Pacific! Discount offer lasts until Monday at 10am Pacific. <br><br>Skullgirls is a fast-paced 2-D fighting game that puts players in control of fierce warriors in an extraordinary Dark Deco world. Featuring all-new game systems which test the skills of veteran fighting game fans while also making the genre enjoyable and accessible to newcomers. <br><br>Skullgirls is a modern take on classic arcade fighters with a hand-drawn high-definition twist. It&#146;s a one-of-a-kind, action-packed competition complete with awesome combos and an intriguing backstory.<br><br><a href="http://store.steampowered.com/app/245170"><img src="http://cdn.akamai.steamstatic.com/steam/apps/245170/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/17072/">
+			<title><![CDATA[Midweek Madness - Oddworld: New 'n' Tasty, 40% Off]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/17072/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/17072/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Tue, 02 Jun 2015 10:00:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-06-02T10:00:00-0700</dc:date>
+						<content:encoded><![CDATA[Save 40% on <a href='http://store.steampowered.com/app/314660'>Oddworld: New 'n' Tasty</a> during this week's Midweek Madness*!<br><br>Explore ancient ruins, dodge carnivorous beasts and avoid trigger-happy guards as Abe, the original Oddworld hero in this lovingly recrafted take on the classic adventure "Abe's Oddysee". <br><br>Once a happy floor waxer in Oddworld's biggest meat processing plant, Abe stumbles across his boss's secret plan to turn the factory's slave labor force into the latest in the RuptureFarms Tasty Treats line of novelty meat snacks. Abe now has to save his own skin from the grinders, but simply escaping the flesh farm is only the start of his Oddysee - for many dangers await Abe on his journey to discover his destiny. <br><br>*Offer ends Friday at 10AM  Pacific Time<br><a href="http://store.steampowered.com/app/314660"><img src="http://cdn.akamai.steamstatic.com/steam/apps/314660/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/17084/">
+			<title><![CDATA[Steam Refunds]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/17084/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/17084/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Tue, 02 Jun 2015 09:33:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-06-02T09:33:00-0700</dc:date>
+						<content:encoded><![CDATA[We're releasing a major update to how we handle requests for refunds for purchases on Steam. You can read through all the details about <a href="http://store.steampowered.com/steam_refunds">refunds on Steam here</a>, or visit <a href="http://help.steampowered.com">http://help.steampowered.com</a> if you&#146;re having trouble with a purchase. We hope this will give you more confidence in trying out titles that you're less certain about.<br><br><a href="http://steamcommunity.com/discussions/forum/0/618463446166409587/">Let us know what you think</a>.]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/17074/">
+			<title><![CDATA[Pre-Purchase Now - METAL SLUG, 20% off]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/17074/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/17074/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Mon, 01 Jun 2015 18:26:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-06-01T18:26:00-0700</dc:date>
+						<content:encoded><![CDATA[<a href='http://store.steampowered.com/app/366250/'>METAL SLUG</a> is Now Available for Pre-Purchase on Steam and is 20% off!*<br><br>&#147;METAL SLUG &#148;, the very first title in SNK&#146;s legendary 2D run & gun action shooting game series where it all began, returns on the Steam gaming platform!<br><br>*Offer ends at 9AM Pacific Time on June 26th<br><a href="http://store.steampowered.com/app/366250/"><img src="http://cdn.akamai.steamstatic.com/steam/apps/366250/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/17056/">
+			<title><![CDATA[Now Available on Steam Early Access - LEGO® Worlds]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/17056/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/17056/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Mon, 01 Jun 2015 10:49:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-06-01T10:49:00-0700</dc:date>
+						<content:encoded><![CDATA[<a href='http://store.steampowered.com/app/332310/'>LEGO&reg; Worlds</a> is Now Available on Steam Early Access!<br><br>In a galaxy of procedural worlds made entirely from LEGO bricks, will you… EXPLORE environments filled with adventure, then alter them? DISCOVER secrets and treasures, then play with them? CREATE your own models, then make a world your own? In LEGO&reg; Worlds, it&#146;s up to you…<br><a href="http://store.steampowered.com/app/332310/"><img src="http://cdn.akamai.steamstatic.com/steam/apps/332310/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/17063/">
+			<title><![CDATA[Now Available on Steam - MASSIVE CHALICE, 20% off!]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/17063/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/17063/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Mon, 01 Jun 2015 10:10:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-06-01T10:10:00-0700</dc:date>
+						<content:encoded><![CDATA[<a href='http://store.steampowered.com/app/246110/'>MASSIVE CHALICE</a> is Now Available on Steam and is 20% off!*<br><br>MASSIVE CHALICE is a tactical strategy game set on an epic timeline from Double Fine Productions. As the Immortal Ruler of the nation, you'll take command of its heroes, forge heroic marriages to strengthen your Bloodlines, and battle a mysterious enemy known as the Cadence in a 300 year war.<br><br>*Offer ends June 8 at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/246110/"><img src="http://cdn.akamai.steamstatic.com/steam/apps/246110/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/16977/">
+			<title><![CDATA[Daily Deal - XCOM: Enemy Unknown, 75% Off]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/16977/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/16977/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Mon, 01 Jun 2015 10:00:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-06-01T10:00:00-0700</dc:date>
+						<content:encoded><![CDATA[Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/200510/'>XCOM: Enemy Unknown</a>!*<br><br>Look for the deals each day on the front page of Steam.  Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are!<br><br>*Offer ends Wednesday at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/200510/"><img src="http://cdn.akamai.steamstatic.com/steam/apps/200510/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/16974/">
+			<title><![CDATA[Daily Deal - Wargame Franchise Pack, 75% Off]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/16974/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/16974/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Sun, 31 May 2015 10:00:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-05-31T10:00:00-0700</dc:date>
+						<content:encoded><![CDATA[Today's Deal: Save 75% on <a href='http://store.steampowered.com/sub/45320/'>Wargame Franchise Pack</a>!*<br><br>Look for the deals each day on the front page of Steam.  Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are!<br><br>*Offer ends Monday at 10AM Pacific Time<br><a href="http://store.steampowered.com/sub/45320/"><img src="https://steamcdn-a.akamaihd.net/steam/news/16974/header_ratio.jpg?t=1432681450" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/16972/">
+			<title><![CDATA[Daily Deal - Mount & Blade Full Collection, 50% Off]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/16972/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/16972/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Sat, 30 May 2015 10:00:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-05-30T10:00:00-0700</dc:date>
+						<content:encoded><![CDATA[Today's Deal: Save 50% on <a href='http://store.steampowered.com/sub/50292/'>Mount & Blade Full Collection</a>!*<br><br>Look for the deals each day on the front page of Steam.  Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are!<br><br>*Offer ends Monday at 10AM Pacific Time<br><a href="http://store.steampowered.com/sub/50292/"><img src="https://steamcdn-a.akamaihd.net/steam/news/16972/header.jpg?t=1432676160" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/17046/">
+			<title><![CDATA[Now Available on Steam - BLADESTORM: Nightmare]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/17046/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/17046/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Fri, 29 May 2015 18:44:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-05-29T18:44:00-0700</dc:date>
+						<content:encoded><![CDATA[BLADESTORM: Nightmare is the newest evolution of 2007&#146;s BLADESTORM: The Hundred Years&#146; War using the latest technologies and introducing many new elements. Check it out on Steam today!<br><br><a href="http://store.steampowered.com/app/350310/"><img src="http://cdn.akamai.steamstatic.com/steam/apps/350310/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/17029/">
+			<title><![CDATA[Now Available on Steam - Hyperdimension Neptunia Re;Birth2: Sisters Generation, 50% off!]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/17029/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/17029/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Fri, 29 May 2015 10:38:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-05-29T10:38:00-0700</dc:date>
+						<content:encoded><![CDATA[<a href='http://store.steampowered.com/app/351710/'>Hyperdimension Neptunia Re;Birth2: Sisters Generation</a> is Now Available on Steam and is 50% off!*<br><br>Gamindustri has been taken over by a new threat, and the CPUs are nowhere to be found! It&#146;s now up to their younger sisters to step into the spotlight and save the day in this hilarious, deeply customizable JRPG!<br><br>*Offer ends June 5 at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/351710/"><img src="http://cdn.akamai.steamstatic.com/steam/apps/351710/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/16970/">
+			<title><![CDATA[Daily Deal - Sherlock Holmes: Crimes and Punishments, 75% Off]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/16970/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/16970/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Fri, 29 May 2015 10:00:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-05-29T10:00:00-0700</dc:date>
+						<content:encoded><![CDATA[Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/241260/'>Sherlock Holmes: Crimes and Punishments</a>!*<br><br>Look for the deals each day on the front page of Steam.  Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are!<br><br>*Offer ends Monday at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/241260/"><img src="http://cdn.akamai.steamstatic.com/steam/apps/241260/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/17036/">
+			<title><![CDATA[Now Available on Steam - The Silent Age, 35% off!]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/17036/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/17036/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Fri, 29 May 2015 09:52:18 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-05-29T09:52:18-0700</dc:date>
+						<content:encoded><![CDATA[<a href='http://store.steampowered.com/app/352520/'>The Silent Age</a> is Now Available on Steam and is 35% off!*<br><br>Lose yourself in The Silent Age, the thrilling point-and-click adventure with over seven million mobile downloads, completely revamped and updated for PC.<br><br>*Offer ends June 5 at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/352520/"><img src="http://cdn.akamai.steamstatic.com/steam/apps/352520/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/17018/">
+			<title><![CDATA[Now Available to Watch on Steam - Kung Fury]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/17018/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/17018/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Thu, 28 May 2015 14:55:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-05-28T14:55:00-0700</dc:date>
+						<content:encoded><![CDATA[<a href='http://store.steampowered.com/app/374570/'>Kung Fury</a> is Now Available to Watch on Steam!<br><br>Miami Police Department detective and martial artist Kung Fury time travels from the 1980s to World War II to kill Adolf Hitler, a.k.a. &quot;Kung Führer&quot;, and revenge his friend's death at the hands of the Nazi leader. An error in the time machine sends him further back to the Viking Age.<br><br><a href="http://store.steampowered.com/app/374570/"><img src="http://cdn.akamai.steamstatic.com/steam/apps/374570/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/17015/">
+			<title><![CDATA[Now Available on Steam - Blender Game Asset Creation]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/17015/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/17015/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Thu, 28 May 2015 14:50:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-05-28T14:50:00-0700</dc:date>
+						<content:encoded><![CDATA[<a href='http://store.steampowered.com/app/373020/'>Blender Game Asset Creation</a> is Now Available on Steam!<br><br>In 8 well organized sections with 51 short videos you will get a complete introduction to Blender and how to create game assets.<br /><br>This tutorial has been produced by Blender Institute, to support Blender Foundation projects.<br><br><a href="http://store.steampowered.com/app/373020/"><img src="http://cdn.akamai.steamstatic.com/steam/apps/373020/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/17009/">
+			<title><![CDATA[Now Available on Steam - Flame Over, 20% off!]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/17009/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/17009/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Thu, 28 May 2015 10:49:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-05-28T10:49:00-0700</dc:date>
+						<content:encoded><![CDATA[<a href='http://store.steampowered.com/app/345080/'>Flame Over</a> is Now Available on Steam and is 20% off!*<br><br>Blending top down &quot;squirt em-up&quot; action and &quot;Pyroguelike&quot; game mechanics, <i>Flame Over</i> features fast-paced fire-fighting thrills, randomly generated levels, 4 different game zones and dastardly hazards at every turn!<br><br>*Offer ends June 4 at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/345080/"><img src="http://cdn.akamai.steamstatic.com/steam/apps/345080/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/17006/">
+			<title><![CDATA[Weekend Deal - The Escapists, 33% Off]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/17006/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/17006/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Thu, 28 May 2015 10:05:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-05-28T10:05:00-0700</dc:date>
+						<content:encoded><![CDATA[Save 33% on <a href='http://store.steampowered.com/app/298630/'>The Escapists</a> as part of this week's Weekend Deal*!<br><br>*Offer ends Monday at 10AM Pacific Time<br><br><a href="http://store.steampowered.com/app/298630/"><img src="http://cdn.akamai.steamstatic.com/steam/apps/298630/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+		</item>
+					<item rdf:about="http://store.steampowered.com/news/16969/">
+			<title><![CDATA[Daily Deal - Distant Worlds: Universe, 50% Off]]></title>
+			<link><![CDATA[http://store.steampowered.com/news/16969/]]></link>
+			<guid isPermaLink="true"><![CDATA[http://store.steampowered.com/news/16969/]]></guid>
+			<comments>http://steamcommunity.com//discussions/</comments>
+			<pubDate>Thu, 28 May 2015 10:00:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2015-05-28T10:00:00-0700</dc:date>
+						<content:encoded><![CDATA[Today's Deal: Save 50% on <a href='http://store.steampowered.com/app/261470/'>Distant Worlds: Universe</a>!*<br><br>Look for the deals each day on the front page of Steam.  Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are!<br><br>*Offer ends Saturday at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/261470/"><img src="http://cdn.akamai.steamstatic.com/steam/apps/261470/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+		</item>
+	</rdf:RDF>
